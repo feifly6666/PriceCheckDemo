@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Price Checker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="serial_port">Serial Port</string>
+    <string name="t0">Drug Name</string>
+    <string name="t1">Drug Code</string>
+    <string name="t2">Scan Times</string>
+    <string name="t3">Count Time</string>
+    <string name="t4">Clear</string>
+    <string name="t5">Unit Price</string>
+    <string name="t6">Count</string>
+
+
+
+</resources>
